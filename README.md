@@ -1,5 +1,7 @@
 # Developer Diaries
 
+![Alt text](developer-diaries.png "Developer Diaries Hero")
+
 This repository serves as a comprehensive resource for beginner and intermediate learners in the fields of data engineering and analytics. It contains a curated collection of sketch notes designed to simplify complex concepts and system designs through visual diagrams and concise summaries.
 
 ## Contents
